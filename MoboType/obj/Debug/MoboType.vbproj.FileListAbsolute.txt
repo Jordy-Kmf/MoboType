@@ -1,0 +1,12 @@
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\bin\Debug\MoboType.exe.config
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\bin\Debug\MoboType.exe
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\bin\Debug\MoboType.pdb
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\bin\Debug\MoboType.xml
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\obj\Debug\MoboType.vbprojAssemblyReference.cache
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\obj\Debug\MoboType.Form1.resources
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\obj\Debug\MoboType.Resources.resources
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\obj\Debug\MoboType.vbproj.GenerateResource.cache
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\obj\Debug\MoboType.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\obj\Debug\MoboType.exe
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\obj\Debug\MoboType.xml
+C:\Users\Jordan Adjei\source\repos\MoboType\MoboType\obj\Debug\MoboType.pdb
